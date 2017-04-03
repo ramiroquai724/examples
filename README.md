@@ -1,4 +1,4 @@
-# Confluent Examples
+# Confluent Kafka Test Mocks
 
 This repository contains code examples for [Apache Kafka](http://kafka.apache.org/) and the
 [Confluent Platform](http://www.confluent.io/product).
